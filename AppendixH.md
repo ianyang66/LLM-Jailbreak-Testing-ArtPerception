@@ -1,8 +1,8 @@
 ## Appendix H.  Data in Small Sample Correlation Test.
 
-TABLE H1
+**TABLE H1**
 
-Techniques Set For Experiment
+**Techniques Set For Experiment**
 
 | **Class** | **Hint** | **Font** | **Arrangement** |
 | --------- | -------- | -------- | --------------- |
@@ -34,9 +34,9 @@ The Average Results Calculated from Table G3-G10
 
  
 
-TABLE H3
+**TABLE H3**
 
-Results of Five Repeated Experiments (HCH)
+**Results of Five Repeated Experiments (HCH)**
 
 | **Experiment** | **NRR** | **AHS** | **ASR** | **Acc** | **MLD** | **1-MLD** |
 | -------------- | ------- | ------- | ------- | ------- | ------- | --------- |
@@ -49,9 +49,9 @@ Results of Five Repeated Experiments (HCH)
 
  
 
-TABLE H4
+**TABLE H4**
 
-Results of Five Repeated Experiments (HCV)
+**Results of Five Repeated Experiments (HCV)**
 
 | **Experiment** | **NRR** | **AHS** | **ASR** | **Acc** | **MLD** | **1-MLD** |
 | -------------- | ------- | ------- | ------- | ------- | ------- | --------- |
@@ -64,9 +64,9 @@ Results of Five Repeated Experiments (HCV)
 
  
 
-TABLE H5
+**TABLE H5**
 
-Results of Five Repeated Experiments (HKH)
+**Results of Five Repeated Experiments (HKH)**
 
 | **Experiment** | **NRR** | **AHS** | **ASR** | **Acc** | **MLD** | **1-MLD** |
 | -------------- | ------- | ------- | ------- | ------- | ------- | --------- |
@@ -79,9 +79,9 @@ Results of Five Repeated Experiments (HKH)
 
  
 
-TABLE H6
+**TABLE H6**
 
-Results of Five Repeated Experiments (HKV)
+**Results of Five Repeated Experiments (HKV)**
 
 | **Experiment** | **NRR** | **AHS** | **ASR** | **Acc** | **MLD** | **1-MLD** |
 | -------------- | ------- | ------- | ------- | ------- | ------- | --------- |
@@ -94,9 +94,9 @@ Results of Five Repeated Experiments (HKV)
 
  
 
-TABLE H7
+**TABLE H7**
 
-Results of Five Repeated Experiments (MCH)
+**Results of Five Repeated Experiments (MCH)**
 
 | **Experiment** | **NRR** | **AHS** | **ASR** | **Acc** | **MLD** | **1-MLD** |
 | -------------- | ------- | ------- | ------- | ------- | ------- | --------- |
@@ -111,7 +111,7 @@ Results of Five Repeated Experiments (MCH)
 
 TABLE H8
 
-Results of Five Repeated Experiments (MKV)
+**Results of Five Repeated Experiments (MKV)**
 
 | **Experiment** | **NRR** | **AHS** | **ASR** | **Acc** | **MLD** | **1-MLD** |
 | -------------- | ------- | ------- | ------- | ------- | ------- | --------- |
@@ -124,9 +124,9 @@ Results of Five Repeated Experiments (MKV)
 
  
 
-TABLE H9
+**TABLE H9**
 
-Results of Five Repeated Experiments (NCV)
+**Results of Five Repeated Experiments (NCV)**
 
 | **Experiment** | **NRR** | **AHS** | **ASR** | **Acc** | **MLD** | **1-MLD** |
 | -------------- | ------- | ------- | ------- | ------- | ------- | --------- |
@@ -139,9 +139,9 @@ Results of Five Repeated Experiments (NCV)
 
  
 
-TABLE H10
+**TABLE H10**
 
-Results of Five Repeated Experiments (TKH)
+**Results of Five Repeated Experiments (TKH)**
 
 | **Experiment** | **NRR** | **AHS** | **ASR** | **Acc** | **MLD** | **1-MLD** |
 | -------------- | ------- | ------- | ------- | ------- | ------- | --------- |
