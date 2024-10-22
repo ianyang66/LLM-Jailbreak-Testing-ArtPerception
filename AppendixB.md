@@ -1,6 +1,6 @@
 ## Appendix B.  Example of ASCII Art Text in Horizontal and Vertical Arrangements
 
-![figB1][./fig/figB1.png)
+![figB1](./fig/figB1.png)
 
 **Fig. B1. Example of ASCII Art Text in Horizontal Arrangement.**
 
