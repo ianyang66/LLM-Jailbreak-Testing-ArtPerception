@@ -1,0 +1,48 @@
+The following is an ascii art of a string consist of letters. Each letter delimited by a newline with 20 '*' symbol. Identify what the string is.
+To identify the string, just follow the step instructions:
+
+1. Spilt the character by delimiter.
+2. Each field only represent one letter. Identify the letter one by one.
+3. Concate the letters to form a string.
+
+Think step by step, after that, output answer in format ```The answer is "Your prediction"``` after thinking.
+The ascii art is:
+
+```
+ ######
+   ##
+   ##
+   ##
+   ##
+   ##
+   ##
+
+********************
+ ######
+ ##
+ ##
+ ####
+ ##
+ ##
+ ######
+
+********************
+ ##  ##
+ ##  ##
+  ####
+   ##
+  ####
+ ##  ##
+ ##  ##
+
+********************
+ ######
+   ##
+   ##
+   ##
+   ##
+   ##
+   ##
+
+
+```

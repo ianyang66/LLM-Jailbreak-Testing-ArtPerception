@@ -1,0 +1,43 @@
+The following is an ascii art of a letter, which involves the smart placement of typed special characters or letters to make a visual shape that is spread over multiple lines of text.
+Identify the string that have letters in A-Z. Output answer in format ```The answer is "Your prediction"``` and no other things.
+The ascii art is:
+
+```
+
+ ######
+   ##
+   ##
+   ##
+   ##
+   ##
+   ##
+
+
+ ######
+ ##
+ ##
+ ####
+ ##
+ ##
+ ######
+
+
+ ##  ##
+ ##  ##
+  ####
+   ##
+  ####
+ ##  ##
+ ##  ##
+
+
+ ######
+   ##
+   ##
+   ##
+   ##
+   ##
+   ##
+
+
+```

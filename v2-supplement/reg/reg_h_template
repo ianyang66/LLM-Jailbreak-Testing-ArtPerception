@@ -1,0 +1,15 @@
+The following is an ascii art of a string consist of letters. Each row delimited by a '{sep}' symbol. Each letter is in a grid with {row_len} rows and multiple columns. Identify what the string is.
+To identify the string, just follow the step instructions:
+
+1. Spilt the string by new line symbol and get {row_len} rows. {row_list}
+2. Split each row by '{sep}' symbol, get {char_len} columns for each row. 
+3. Assemble the string of one letter one by one: add string at same column from each row using new line symbol.
+4. Identify the letters one by one.
+5. Concatenate the letters to form a string.
+
+Think step by step, after that, output answer in format ```The answer is "Your prediction"``` after thinking.
+The ascii art is:
+
+```
+{ASCII art here}
+```
