@@ -1,14 +1,15 @@
 # ArtPerception: ASCII Art-based Jailbreak on LLMs with Recognition Pre-test
 
-<h2 style="text-align: center;">Published in Journal of Network and Computer Applications
+<h2 style="text-align: center;">Published in Journal of Network and Computer Applications (JNCA)
+
+[[📖 arXiv]](https://arxiv.org/abs/2510.10281) 
+[[📖 ELSEVIER]](https://www.sciencedirect.com/science/article/pii/S108480452500253X) 
+
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?artperception"
 border="0" alt="Hit Counter"></a>
 <br><a href="https://www.easycounter.com/"></a>
 </h2>
-
-[[📖 arXiv]](https://arxiv.org/abs/2510.10281) 
-[[📖 ELSEVIER]](https://www.sciencedirect.com/science/article/pii/S108480452500253X) 
 
 ## Environment
 
@@ -49,3 +50,17 @@ author = {Guan-Yan Yang and Tzu-Yu Cheng and Ya-Wen Teng and Farn Wang and Kuo-H
    month=dec, pages={104356}
 }
 ```
+
+## Others (Our Recent Works)
+### AI Security and Reliability
+- [Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard](https://arxiv.org/html/2508.20504v1), in IEEE Network, Accepted on Aug. 2025.
+- [Taming Silent Failure: A Framework for Verifiable AI Reliability](), in IEEE Reliability Magazine, Accepted on Oct. 2025.
+
+### IoT and Network Security
+- [GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics](https://arxiv.org/abs/2510.07109), in IEEE Transactions on Consumer Electronics, Accepted on Oct. 2025.
+
+### Web Security
+- [TPSQLi: Test Prioritization for SQL Injection Vulnerability Detection in Web Applications](https://www.arxiv.org/abs/2509.10920), in Applied Sciences, Accepted on Sept. 2025.
+
+### LLM Applications
+- [Multimodal Fusion with Generative AI-Enhanced Textual Features for Multi-Horizon Crude Oil Price Forecasting](), in Expert Systems with Applications, Accepted on Oct. 2025.
