@@ -50,19 +50,3 @@ author = {Guan-Yan Yang and Tzu-Yu Cheng and Ya-Wen Teng and Farn Wang and Kuo-H
    month=dec, pages={104356}
 }
 ```
-
-## Others (Our Recent Published Works)
-### AI Security and Reliability
-- [Enhancing Resilience for IoE: A Perspective of Networking-Level Safeguard](https://arxiv.org/html/2508.20504v1), in IEEE Network, Accepted on Aug. 2025.
-- [Taming Silent Failure: A Framework for Verifiable AI Reliability](), in IEEE Reliability Magazine, Accepted on Oct. 2025.
-
-### IoT and Network Security
-- [GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics](https://arxiv.org/abs/2510.07109), in IEEE Transactions on Consumer Electronics, Accepted on Oct. 2025.
-
-### LLM Applications
-- [Multimodal Fusion with Generative AI-Enhanced Textual Features for Multi-Horizon Crude Oil Price Forecasting](), in Expert Systems with Applications, Accepted on Oct. 2025.
-
-### Web Security
-- [TPSQLi: Test Prioritization for SQL Injection Vulnerability Detection in Web Applications](https://www.arxiv.org/abs/2509.10920), in Applied Sciences, Accepted on Sept. 2024.
-
-More work on these four areas is ongoing or under review in journals/venues.
